@@ -1,0 +1,15 @@
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\bin\Debug\net6.0\PrototypePattern.exe
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\bin\Debug\net6.0\PrototypePattern.deps.json
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\bin\Debug\net6.0\PrototypePattern.runtimeconfig.json
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\bin\Debug\net6.0\PrototypePattern.dll
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\bin\Debug\net6.0\PrototypePattern.pdb
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\obj\Debug\net6.0\PrototypePattern.csproj.AssemblyReference.cache
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\obj\Debug\net6.0\PrototypePattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\obj\Debug\net6.0\PrototypePattern.AssemblyInfoInputs.cache
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\obj\Debug\net6.0\PrototypePattern.AssemblyInfo.cs
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\obj\Debug\net6.0\PrototypePattern.csproj.CoreCompileInputs.cache
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\obj\Debug\net6.0\PrototypePattern.dll
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\obj\Debug\net6.0\refint\PrototypePattern.dll
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\obj\Debug\net6.0\PrototypePattern.pdb
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\obj\Debug\net6.0\PrototypePattern.genruntimeconfig.cache
+D:\-- METRODATA --\MCC\Programs\PatternDesign\PrototypePattern\obj\Debug\net6.0\ref\PrototypePattern.dll

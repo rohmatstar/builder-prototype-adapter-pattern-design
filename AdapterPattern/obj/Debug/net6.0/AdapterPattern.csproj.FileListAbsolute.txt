@@ -1,0 +1,15 @@
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\bin\Debug\net6.0\AdapterPattern.exe
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\bin\Debug\net6.0\AdapterPattern.deps.json
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\bin\Debug\net6.0\AdapterPattern.runtimeconfig.json
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\bin\Debug\net6.0\AdapterPattern.dll
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\bin\Debug\net6.0\AdapterPattern.pdb
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\obj\Debug\net6.0\AdapterPattern.csproj.AssemblyReference.cache
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\obj\Debug\net6.0\AdapterPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\obj\Debug\net6.0\AdapterPattern.AssemblyInfoInputs.cache
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\obj\Debug\net6.0\AdapterPattern.AssemblyInfo.cs
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\obj\Debug\net6.0\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\obj\Debug\net6.0\AdapterPattern.dll
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\obj\Debug\net6.0\refint\AdapterPattern.dll
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\obj\Debug\net6.0\AdapterPattern.pdb
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\obj\Debug\net6.0\AdapterPattern.genruntimeconfig.cache
+D:\-- METRODATA --\MCC\Programs\PatternDesign\AdapterPattern\obj\Debug\net6.0\ref\AdapterPattern.dll
